@@ -1,0 +1,46 @@
+.diwali-top-section {
+    background-image: url("https://img.freepik.com/premium-vector/diwali-diya-lamps-set-deepavali-indian-light-festival-hindu-religion-holiday-design-oil-lamps-with-burning-fire-flames-clay-cups-with-rangoli-pattern-paisley-flowers-floral-petals_8071-1929.jpg?w=740");
+    height: 40vh;
+    width: 100vw;
+    background-size: cover;
+}
+.main-heading {
+    text-align: center;
+    color: white;
+    font-family: 'Caveat';
+    padding: 20px;
+}
+.paragraph {
+    text-align: center;
+    color: white;
+    font-family: "Caveat";
+    font-weight: normal;
+}
+.diwali-bottom-section {
+    background-color: lightblue;
+    padding: 20px;
+}
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 200px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+
+}
+.diwali-card-image {
+    height: 100px;
+    width: 100px;
+    
+}
+.diwali-item-name {
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 20px;
+
+}
+.diwali-item-price {
+font-weight: bold;
+
+}
